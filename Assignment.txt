@@ -1,0 +1,31 @@
+Assignment for day 1
+Answer
+Explain the use of JavaScript ( or What you can do using a JavaScript):
+JavaScript is a powerful programming language that is used in almost every aspect of programming.
+From fullstack webdevelopmet, Virtual reality, blockchain development, Artificial intelligent, mobile app development, game programming and many more
+
+
+What is the difference between client-side and server-side?
+Answer
+    The client side is also referred to as frontend or browser, this is the part the cleint interact with 
+    while the server side also known as backend means everything that happens on the server, instead of on the client. 
+
+What is Nodejs?
+Answer
+Node js asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications.
+
+Explain Scope in JavaScript
+Answer
+The current context of execution. The context in which values and expressions are "visible" or can be referenced.
+
+JavaScript is asynchronous or synchronous.
+Answer
+Javascript is always synchronous
+
+Answer
+JavaScript is Single-threaded or Multi-threaded.
+JavaScript is single threaded
+
+Explain DOM in your own word.
+Answer
+The Document Object Model (DOM) is a programming API for HTML and XML documents. It defines the logical structure of documents and the way a document is accessed and manipulated
